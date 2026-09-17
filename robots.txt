@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shalinipapa1050-sys.github.io/worship-to-jesus-ariyacheri/sitemap.xml
